@@ -1,0 +1,33 @@
+a {
+  cursor: pointer;
+}
+
+.footer_link {
+  color: white !important;
+}
+
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none !important;
+}
+
+.settingPaper:hover {
+  background: linear-gradient(279.93deg, rgba(54, 51, 51, 0.5) 0%, #000000 70%) !important;
+}
+
+.ls_dialog .MuiDialog-container .MuiPaper-root {
+  max-width: 476px;
+  width: 100%;
+}
+
+.set_m .MuiPaper-root {
+  border-radius: 20px;
+}
+
+.group-mark {
+  color: white;
+  height: 17px !important;
+  font-size: 10px !important;
+  font-weight: 600;
+  margin-top: -10px;
+  z-index: 1;
+}
